@@ -1,0 +1,85 @@
+body{
+    background-image: url(img/photo-1494783367193-149034c05e8f.avif);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+  
+}
+
+
+.error {
+    
+    
+    color: #fe0060;
+   background: transparent;
+padding: 2px;
+width: 95%;
+border-radius: 5px;
+
+}
+form h2 {
+    color: white;
+    text-align: center;
+}
+
+form h2:hover{
+    color: #f99;
+    transition: 2s;
+    font-weight: 800;
+}
+
+button a:hover {
+    color: azure ;
+    transition: 1s;
+    text-decoration: none;
+}
+
+label {
+    color: wheat;
+    font-weight: 700 ;
+    font-family: sans-serif;
+
+}
+form{
+    width: 500px;
+    border: 2px solid #f99;
+    padding: 20px;
+    background: transparent;
+    
+        background: rgba(0, 0, 0, 0.5);
+        justify-content: center;
+    border-radius: 10px;
+
+}
+
+button a {
+    color: azure;
+    text-decoration: none ;
+}
+
+ button:hover {
+    transition: 2s;
+    
+    
+}
+form button {
+    color: transparent;
+}
+
+
+.jack h1 {
+    color: azure;
+}
+
+.jack button {
+    color: transparent;
+}
+
+
+.jack button:hover{
+    transition: 2s;
+}
